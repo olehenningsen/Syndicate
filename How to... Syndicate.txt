@@ -1,0 +1,284 @@
+# How to... Syndicate - in beta
+
+{{TOC}}
+
++++
+
+## Velkommen 
+Velkommen til Syndicate. Et kollektiv, hvor sammenhold, ekspertise og opfinderlyst er i højsædet. På de næste par sider vil du blive klogere på Syndicate - spirituelt og organisatorisk. Derefter vil vi grave et spadestik dybere i en manual til hvad du får ud af netop dette fællesskab.
+
+#todo [Tegning: Syndicate tændstiksmand]
+
+## Syndi-what?
+
+Syndicate er et holistisk, humanistisk og kreativt end-to-end produktudviklingshus. Syndicat er for nørderne, der mestrer deres felt til fingerspidserne og dem, der drømmer om at skabe produkter, som kan være til gavn for andre.
+
+Syndicate udspringer af en lyst til at skabe den arbejdsplads, som vi gerne selv vil være en del af. Hvor der er mulighed for at fokusere på kontinuerlig personlig udvikling og samtidig være en del af noget større. 
+
+- Beyond ideas - Syndicate is execution
+- Beyond Agile - Syndicate is empiricism and continuous improvement
+- Beyond Consulting - Syndicate is services and products
+- Beyond you - Syndicate is us
+
+#todo [Tegning: Raket]
+
+*Vores formål spørger du?*
+
+> We discover and develop tomorrows products and during that journey we discover and develop ourselves and those we humble serve
+
+Vi vil udvikle morgensdagens produkter og i samme bevægelse udvikler vi morgensdagens produktudviklere. Vi vil inspirere og motivere vores kunder og os selv og gennem praktisk læring, relationer og fællesskab. 
+
+Vi giver altid vores kunder et ordentligt skud startup energi. De arbejder sammen med os fordi vi påvirker deres produkter, deres processer og deres mindset positivt.
+
+Syndicates kunder er trofaste. De er vores partnere.
+
+Syndicate...
+
+- Er indie og ikke mainstream
+- Er foran
+- Genopfinde kontinuerligt sig selv
+- Er altid på vej videre
+- Udfordrer ydmygt
+- Går egne veje
+- Tænker andre tanker
+- Spotter mønstre og sammensætter dem til nyt 
+- Forsøger ikke at ramme alles smag
+- Er underspillet på den overspillede måde
+
+### Vores værdier
+
+- **Grit:** Passion, attitude, karakter og viljestyrke er en forudsætning 
+- **Playfull:** ...du skal elske at lege og være en god legekammerat
+- **Purpose:** ...men der er en ting der slår det og det er formål
+- **Mindful:** Mental motion, fokus og nærvær er samtidig en forudsætning for at vi er de bedste versioner af os selv
+
+### Vores overbevisninger
+
+- Vi elsker fede produkter
+- Vi vægter eksekvering over idéer
+- Vi er på en kontinuerlig forbedringsrejse
+- Vi tager vores egen medicin
+- Vi er her på baggrund af potentiale og attitude - ikke anciennitet
+
+### Vores temaer
+
+- Product Delivery and Technical Excellence
+- Product Discovery 
+- Descaling
+- Servant Leadership
+- Personal Growth
+- Visual Thinking
+
+## Syndicate lingo
+
+Vi udvikler **produkter**. Alt er et produkt. Du er et produkt. Vi er **produktudviklere**. Vi udvikler ofte produkter til vores kunder som vi betragter som **partnere**, men vi udvikler også vores egne produkter.
+
+## Tjeklisten til newcomers
+
+1. Læs "How to... Syndicate" og kom med idéer til forbedringer.
+2. Bliv en del af vores Slack-kanal, og skriv en besked til dine nye legekammerater på #general.
+3. Registrér dig selv som Syndicator på LinkedIn.
+4. Kom med i vores team inde på Trello og bliv en del af vores 40.000 Trello- og JIRA-boards.
+4. Modtag dit Syndicate merchandise startkit.
+5. Invitér dit team på en fyraftensøl eller frokost - på Syndicates regning.
+6. Spørg, hvis du er i tvivl om noget.
+
+#todo [Star Wars reference]
+
+## Syndicates opbygning
+
+#todo [Tegning: Syndicate Circles]
+
+### Det hele starter med dig
+
+Syndicate består af dig. Du er grundpillen, motoren for Syndicate. Uden dig ville alt i dette dokument være tomme ord. Derfor afspejler Syndicates værdier sig i dig. Du er passioneret, fokuseret og legesyg. Du tager hånd om egen karriere og elsker at arbejde i et team fyldt med andre passionerede mennesker.
+
+> Du har underspillet styr på dit shit
+
+Personlig udvikling er essentielt for dig, således at du kan være den bedste udgave af dig selv. Kun derved bliver Syndicate den bedste udgave af sig selv.
+
+### Stammen som organisme
+
+Stammen. Triben. Gruppen. Holdet. Teamet. Bandet. Rockerklubben. Syndikatet.
+
+Kært barn har mange navne, og består af dig og dine dygtige kollegaer. Stammen er hjertet i Syndicate.
+
+Syndicate skal tænkes mere som en organisme end en organisation. To hjerner tænker bedre end én, og når vi forener de bedste nogle af de bedste hjerner i landet, opnår Syndicate en faglig kapacitet. 
+
+Ligegyldigt om du er freelance tilknyttet eller fastansat konsulent er du en integreret del af stammen. 
+
+> Move Your Feet
+
+Stammen består både af junior og senior. Forskeligheden giver den dynamik Syndicate har behov for. I stammen passer vi på hinanden.
+
+#todo [Tegning: Gruppe]
+
+
+#### Flat Army
+
+Vi har en flad organisationsstruktur uden mellemledere og bureaukrati-ræs. Vi har tillid til hinandens ekspertise og beslutningstagen og deler ansvaret ud til de enkelte medlemmer i Syndicate. Vi er et kollektiv bestående af produktudviklere med forskellige kompetencer.
+
+En stamme består af op til 32 personer. Det er en max størrelse, der gør det muligt, at alle i stammen kender hinanden og har et personligt forhold til hinanden. Syndicate kan have flere stammer fordelt på forskellige geografiske lokationer.
+
+Stammen er dynamisk organisme med selvorganiserende teams. I Syndicate er der to typer teams:
+
+- Produktteams, herunder
+	- Eksterne produktteams der arbejder på kunders produkter. Eks. Bestseller transformation, Nabohjælp, Jyske Bank Pengeklog, etc.
+	- Interne produktteams der arbejder på egne produkter (jvf. også Lab). Eks. "*Glam Squad*" / vores marketingsteam, Grim, Syndicate U, Agile Leadership In Practice, etc.
+- Kompetenceteams. Teams der opstår for at udvikle og sparre om fælles kompetencer. Eks. UI/UX, app udviklling, backend, 
+
+Teams kommer og går. De fleste produktudviklere er oftest en del af et eller flere teams, men det varierer.
+
+En stamme har altid et internt team der består af 3-4 personer: 
+
+- En PR- og marketingsansvarlig
+- En administrativ ansvarlig
+- En salgsansvarlig
+- En facilitator, der formelt også er den ansvarlige CEO
+
+Dette *core team*, som er et internt produktteam, har det overordnede ansvar for stammens ve og vel. Facilitatoren er den procesansvarlige - både i forhold til stammen samt coaching og udvikling af de enkelte medlemmer.
+
+
+### Lab
+
+**Hvorfor har vi et lab?**
+Af den simple grund at vi elsker fede produkter, og der ikke er noget vi hellere vil end at skabe vores eget.
+
+I lab'et har vi muligheden for at eksperimentere og tage vores egen medicin. Med andre ord er lab'et et sted, hvor vi kan teste de processer, praktikker og teknikker, som vi sælger til vores kunder.
+
+Regler for lab:
+
+1. ~~You do not talk about the Lab.~~
+2. Alt er et produkt. Du er et produkt. Syndicate er et produkt. Vores proces er et produkt.
+3. Et produkt skal være helt eller delvist ejet af mindst ét medlem.
+4. Fokus. Det er svært. Eksekvering trumfer altid idéer.
+5. I lab'et er valutaen timer, equity eller penge:
+	6. Timer: Vi har en timebank. Her kan du indsætte og hæve timer. Hvis du for eksempel vil bruge 10 timer på et produkt kan du indsætte 10 timer i timebanken. Vi er alle aktiver i timebanken.
+	7. Equity: Co-founder-modellen, hvor du får x procent af virksomheden.
+	8. Penge: Typisk kun hvis produktet allerede er solgt.
+
+#todo [Tegning: Syndicate tragten]
+
+Vores Lab er ikke for sjov. Det handler i sidste ende om, at der kommer brugbare produkter ud på den anden side. For at pre-kvalificere dine idéer, bør du derfor tage din idé og validere den med følgende spørgsmål:
+
+1. Hvilket reelt problem løser idéen/produktet?
+2. Er du passioneret omkring dette produkt? Vil du selv bruge det? Er det noget du bruger penge på i dag?
+4. Har produktet en potentiel fordel som ingen andre tilsvarende produktet har?
+5. Hvordan skal produktet markedsføres og distribueres? Kan vi det?
+
+Vi har en årlig livscyklus omkring vores Lab. Her mødes vi mindst 4 gange om året til et såkaldt lab-event (læs mere under "socialize"). Produkterne udvikles og lever ved siden af Lab-events i det team, som arbejder med produktet. 
+
+***Hvilke produkter har vi i vores lab?***
+
+Eksempler på produkter der er en del af vores Lab:
+
+- Path & Pattern - vores teamblog, hvor vi åbent og ærligt deler viden og tanker indenfor alle aspekter af vores arbejdsliv. Hvis du har mod på og lyst til at bidrage til bloggen, så er du meget velkommen.
+- Nabohjælp
+- Numble
+- Bilscanner
+- Grim
+- Upgrade
+- ...
+
+### What we do?
+
+#### Beyond Consulting - Syndicate is services and products
+
+De fleste i stammen har arbejdet eller arbejder til dagligt som konsulenter. For kunder og ude ved kunder. Det vil vi nok blive ved med et godt stykke endnu. Vi udvikler dog flere og flere produkter i samarbejde med vores kunder der har fuld tillid til at vi tager ansvaret for deres løsninger.
+
+Vi vil løbende udvide vores egen produktportofolio til også at omfatte services og produkter som målrettet løser de problemer vores kunder står overfor. Det gør os stærkere, mindre sårbare og i øvrigt langt lettere at skalere end timer.  
+
+*Vi vil hellere sælge en værktøjskasse med mennesker bag fremfor et menneske med en værkstøjskasse.*
+
+Det giver os også mulighed for arbejde tættere sammen frem for "*one man armies*". 
+
+*Speaking of...*
+
+#### Syndicate U
+
+Hos Syndicate har vi en uddannelsesplatform, hvor vi underviser kunder og kursister indenfor en række specifikke områder, der alle kredser om hvad der kræves af morgendagens produktudvikler.
+
+Vi tilbyder både kurser, længere uddannelser og retreats. Syndicate U's formål er at bidrage til andres livslange læring. 
+
+Vi tilføjer ikke bare en række kompetencer til deltagernes CV. Vi medvirker til en transformation, der kan ændre og forbedre arbejdslivet hos den enkelte deltager.
+
+**Den fulde pakke***
+Vores uddannelser spænder over både soft og hard skills. I det daglige taler vi om tre kategorier:
+
+- *Core* - grundlæggende kompetencer, der kan gavne alle. Eksempelvis coaching, facilitering og sketchnoting.
+- *Delivery* - hvordan bygger man produktet? Eksempelvis Scrum, XP og Domain Driven Design .
+- *Discovery* - skal vi bygge produktet? Eksempelvis Design Sprint og Lean Product Discovery.
+
+**Vil du undervise?**
+Hvis du gerne vil undervise, er der en række punkter, du skal igennem. 
+
+1. Du skal have ideen og lysten til at undervise. Her er ingen tvang. Ligesom lab er et tilvalg, ikke et fravalg.
+2. Dernæst skal du have en plan. Hvad skal uddannelsen handle om? Udfyld en 1-pager, hvor du får de centrale budskaber frem og "sælger" varen.
+3. Tilføj Syndicate U-trelloboardet. Her kan du smide dine dine idé ind i backloggen. Fordelen er, at du kan se, hvilke kursus-idéer der er i gang - måske er der en, der har samme idé som dig og I kan samarbejde? 
+4. Når du har skrevet din 1-pager sendes den i review hos dine kollegaer. Derefter prøver vi den af i markedet.
+5. Sælger kurset som varmt brød skal du lave kurset. Det vil vi også gerne hjælpe dig med. Vi underviser efter nogle særlige principper. De principper vil vi meget gerne lære dig.
+
+## Ekstra sukker på din sukkermad
+
+### 1:1
+
+Der er rig mulighed for 1:1 i Syndicate. Ikke i form af den traditionelle MU-samtale, men i form af pullbaseret mentoring og coaching. Hvis du ikke selv opsøger det kan du være sikker på at det opsøger dig :)
+
+1:1 har fokus på kontinuerlig personlig udvikling der naturligvis skal være i balance med resten af dit liv. Syndicate facilitatoren står altid til rådighed for disse samtaler, og det er der i øvrigt altid mange andre kollegaer der også er.
+
+Hvis man ønsker mere disciplin omkring opfølgning på personlige udvikling bruger vi vores egen Upgrade logbog. 
+
+### Socialize
+
+Vi elsker at bruge tid sammen. Det er hele grundessensen for Syndicate. Derfor har vi også en række begivenheder og events, hvor vi samles og nyder hinandens selskab.
+
+#### Core-events
+
+Kernen af Syndicate er dig. Derfor er det også yderst vigtigt, at din udvikling og velbefindende er i fokus. Fem gange årligt har vi et såkaldt core-event, hvor vi fokuserer på den enkelte person. Det kan være alt fra en workshop om personlig udvikling over spiludvikling til branding på sociale medier og grafisk facilitering. Kun fantasien sætter grænser. Ligesom alle andre ting i Syndicate, har du mulighed for at komme med indspark og selv stå for et event.
+
+#### Lab-events
+
+Vi har fire årlige lab-events, hvor vi samles og udvikler på idéer og fremtidige produkter.
+
+#### Stamme-events 
+
+**Sommerhustur**
+
+En weekend i maj lader vi ægtefæller, børn og realkreditlån blive hjemme og tager i sommerhus sammen. Sommerhusturen er en af vores fire årlige lab-events, hvor vi brainstormer, udvikler og er så kreative at det driver ned ad sommerhusets fyretræsvægge. Om aftenen toppes dagen med hygge (og måske lidt vin).
+
+**GrimFest**
+
+#todo [Tegning: Lyn]
+
+En god håndfuld af os bruger en del af vores arbejdstid på Grim. Den første weekend i august får resten af Syndicate mulighed for at se, hvad der er blevet arbejdet på, når GrimFest traditionen tro løber af stablen. For mange af os er det den hyggeligste weekend på hele året, hvor vi kan mødes over en fadøl og høre god musik.
+
+**Familiedag**
+
+Selvom vi har det rart sammen, så er der findes der også mennesker uden for vores Syndicate-familie. I septembermåned inviterer vi derfor til familiedag, hvor der er sjove aktiviteter for store og små.
+
+**Julefrokost**
+Haps, haps, haps. Enhver virksomhed med respekt for sig selv har en julefrokost. Og Syndicate er ingen undtagelse. På med duftevand og nissehue og spis og drik til den store guldmedalje - vi gir!
+
+### Er du stay-at-home-typen?
+
+> Work alone, together
+
+Har du lyst til at arbejde hjemmefra en dag? Fint. Så længe det passer med kunderne og dit team, kan du arbejde lige fra der, hvor du er. Ja, selv Bali, hvis det kunne friste. Derudover har vi tre kontorer, som du også gerne må sidde på alt det, du ønsker:
+
+- Carl Blochs Gade 37, 8000 Aarhus C
+- Grimhøjvej 20, 8230 Brabrand
+- Strandvejen 70, 2. sal, 2900 Hellerup 
+
+På kontoret har vi bl.a. et fælles bibliotek, grafisk faciliteringskit, merch og andet godt. 
+
+***Flex*** 
+
+#todo [Tegning: Palme]
+
+Du er din egen chef. Hvis det giver mere mening for dig at tage tidligt hjem fra kontoret for være sammen med ungerne, og arbejde videre om aftenen, så står det dig frit for. Dit arbejdsliv hænger sammen med resten af dit liv. Der er jo sådan set kun et liv.
+ 
+## A neverending story...
+
+Dette dokument er ligesom alle andre ting hos Syndicate i konstant bevægelse. Derfor skal du endelig komme med dine inputs til, hvordan dokumentet og din stamme kan blive endnu bedre.
+
+Derfor: *Fortsættelse følger...*
