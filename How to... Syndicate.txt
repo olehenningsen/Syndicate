@@ -73,6 +73,20 @@ Syndicate...
 
 Vi udvikler **produkter**. Alt er et produkt. Du er et produkt. Vi er **produktudviklere**. Vi udvikler ofte produkter til vores kunder som vi betragter som **partnere**, men vi udvikler også vores egne produkter.
 
+- Produkter frem for processer
+- Mennesker ikke ressourcer
+- Produkter frem for projekter
+- De-skalering frem for skalering
+- Aktiviteter i stedet for faser
+- DoD (og DoR) i stedet for gates
+- Kompetent team frem for co-located team
+- Kompetencer i stedet for roller og titler
+	- Roller er processer og frameworks
+	- Titler er facade
+- Outcome og impact frem for output
+- Partnerskab frem for kunde/leverandør
+- Relation frem for salg
+
 ## Tjeklisten til newcomers
 
 1. Læs "How to... Syndicate" og kom med idéer til forbedringer.
@@ -113,7 +127,6 @@ Stammen består både af junior og senior. Forskeligheden giver den dynamik Synd
 
 #todo [Tegning: Gruppe]
 
-
 #### Flat Army
 
 Vi har en flad organisationsstruktur uden mellemledere og bureaukrati-ræs. Vi har tillid til hinandens ekspertise og beslutningstagen og deler ansvaret ud til de enkelte medlemmer i Syndicate. Vi er et kollektiv bestående af produktudviklere med forskellige kompetencer.
@@ -137,7 +150,6 @@ En stamme har altid et internt team der består af 3-4 personer:
 - En facilitator, der formelt også er den ansvarlige CEO
 
 Dette *core team*, som er et internt produktteam, har det overordnede ansvar for stammens ve og vel. Facilitatoren er den procesansvarlige - både i forhold til stammen samt coaching og udvikling af de enkelte medlemmer.
-
 
 ### Lab
 
@@ -197,6 +209,8 @@ Det giver os også mulighed for arbejde tættere sammen frem for "*one man armie
 #### Syndicate U
 
 Hos Syndicate har vi en uddannelsesplatform, hvor vi underviser kunder og kursister indenfor en række specifikke områder, der alle kredser om hvad der kræves af morgendagens produktudvikler.
+
+> The U in Product Developer
 
 Vi tilbyder både kurser, længere uddannelser og retreats. Syndicate U's formål er at bidrage til andres livslange læring. 
 
