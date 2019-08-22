@@ -1,5 +1,7 @@
 # How to... Syndicate - in beta
 
+#todo Etik afsnit
+
 {{TOC}}
 
 +++
@@ -9,22 +11,29 @@ Velkommen til Syndicate. Et kollektiv, hvor sammenhold, ekspertise og opfinderly
 
 #todo [Tegning: Syndicate tændstiksmand]
 
+## Mission: Why do we exists?
+
+> We enable product-led organisations and creators
+
+By product-led (as oppose to vision-led, sales-led or technical-led) we mean when the purpose of the company is to bring a product vision to life by creating a customer and deliver value to that customer. All components in the organisation are in service to product.
+
+- Product is the driver of the vision
+- Product is the foundation for strategy and governance
+- Product is the primary driver of growth and value
+
+When we say product we mean a complete experience. A product is the driver of value to the customer.
+
+## Vision: Were are we going?
+
+ > We want to be the leading enablers of product-led organisations and creators by supporting them to continuosly deliver value to their customers.
+
 ## Syndi-what?
 
 Syndicate er et holistisk, humanistisk og kreativt end-to-end produktudviklingshus. Syndicat er for nørderne, der mestrer deres felt til fingerspidserne og dem, der drømmer om at skabe produkter, som kan være til gavn for andre.
 
 Syndicate udspringer af en lyst til at skabe den arbejdsplads, som vi gerne selv vil være en del af. Hvor der er mulighed for at fokusere på kontinuerlig personlig udvikling og samtidig være en del af noget større. 
 
-- Beyond ideas - Syndicate is execution
-- Beyond Agile - Syndicate is empiricism and continuous improvement
-- Beyond Consulting - Syndicate is services and products
-- Beyond you - Syndicate is us
-
 #todo [Tegning: Raket]
-
-*Vores formål spørger du?*
-
-> We discover and develop tomorrows products and during that journey we discover and develop ourselves and those we humble serve
 
 Vi vil udvikle morgensdagens produkter og i samme bevægelse udvikler vi morgensdagens produktudviklere. Vi vil inspirere og motivere vores kunder og os selv og gennem praktisk læring, relationer og fællesskab. 
 
@@ -40,10 +49,9 @@ Syndicate...
 - Er altid på vej videre
 - Udfordrer ydmygt
 - Går egne veje
-- Tænker andre tanker
-- Spotter mønstre og sammensætter dem til nyt 
 - Forsøger ikke at ramme alles smag
 - Er underspillet på den overspillede måde
+- Er invented here
 
 ### Vores værdier
 
@@ -51,6 +59,7 @@ Syndicate...
 - **Playfull:** ...du skal elske at lege og være en god legekammerat
 - **Purpose:** ...men der er en ting der slår det og det er formål
 - **Mindful:** Mental motion, fokus og nærvær er samtidig en forudsætning for at vi er de bedste versioner af os selv
+- **Exception** Hvis alle går ned af en vej går vi altid en anden vej. Vi vil ikke være mainstream. Det ender derfor som regel med at vi er foran alle andre også selvom vejen er længere.
 
 ### Vores overbevisninger
 
@@ -73,9 +82,9 @@ Syndicate...
 
 Vi udvikler **produkter**. Alt er et produkt. Du er et produkt. Vi er **produktudviklere**. Vi udvikler ofte produkter til vores kunder som vi betragter som **partnere**, men vi udvikler også vores egne produkter.
 
-- Produkter frem for processer
 - Mennesker ikke ressourcer
 - Produkter frem for projekter
+- Produkter frem for processer
 - De-skalering frem for skalering
 - Aktiviteter i stedet for faser
 - DoD (og DoR) i stedet for gates
@@ -83,9 +92,9 @@ Vi udvikler **produkter**. Alt er et produkt. Du er et produkt. Vi er **produktu
 - Kompetencer i stedet for roller og titler
 	- Roller er processer og frameworks
 	- Titler er facade
-- Outcome og impact frem for output
+- Outcome og impact frem for output og aktivitet
 - Partnerskab frem for kunde/leverandør
-- Relation frem for salg
+- Relationer frem for salg
 
 ## Tjeklisten til newcomers
 
@@ -105,7 +114,15 @@ Vi udvikler **produkter**. Alt er et produkt. Du er et produkt. Vi er **produktu
 
 ### Det hele starter med dig
 
-Syndicate består af dig. Du er grundpillen, motoren for Syndicate. Uden dig ville alt i dette dokument være tomme ord. Derfor afspejler Syndicates værdier sig i dig. Du er passioneret, fokuseret og legesyg. Du tager hånd om egen karriere og elsker at arbejde i et team fyldt med andre passionerede mennesker.
+Syndicate består af dig. Du er grundpillen, motoren for Syndicate. Uden dig ville alt i dette dokument være tomme ord. Derfor afspejler Syndicates værdier sig forhåbentligt i dig. Du er passioneret, fokuseret og legesyg. Du tager hånd om egen karriere og elsker at arbejde i et team fyldt med andre passionerede mennesker.
+
+#todo "*Culture fit*"
+
+Der er ingen der er freelance tilknyttet Syndicate som vi ikke vil ansætte. Du bliver ikke freelance tilknyttet fordi der byder sig en mulighed for hurtig profit. Du er freelance tilknyttet fordi vi ønsker en langsigtet relation.
+
+Alle fastansatte kan til enhver tid ønske at blive freelance tilknyttet og vice versa.
+
+#todo <End>
 
 > Du har underspillet styr på dit shit
 
@@ -123,13 +140,13 @@ Ligegyldigt om du er freelance tilknyttet eller fastansat konsulent er du en int
 
 > Move Your Feet
 
-Stammen består både af junior og senior. Forskeligheden giver den dynamik Syndicate har behov for. I stammen passer vi på hinanden.
+Stammen består både af junior og senior. Forskelighed giver den dynamik Syndicate har behov for. I stammen passer vi på hinanden.
 
 #todo [Tegning: Gruppe]
 
 #### Flat Army
 
-Vi har en flad organisationsstruktur uden mellemledere og bureaukrati-ræs. Vi har tillid til hinandens ekspertise og beslutningstagen og deler ansvaret ud til de enkelte medlemmer i Syndicate. Vi er et kollektiv bestående af produktudviklere med forskellige kompetencer.
+Vi har en flad organisationsstruktur uden mellemledere, hierarki og bureaukrati-ræs. Vi har tillid til hinandens ekspertise og beslutningstagen og deler ansvaret ud til de enkelte medlemmer i Syndicate. Vi er et kollektiv bestående af produktudviklere med forskellige kompetencer.
 
 En stamme består af op til 32 personer. Det er en max størrelse, der gør det muligt, at alle i stammen kender hinanden og har et personligt forhold til hinanden. Syndicate kan have flere stammer fordelt på forskellige geografiske lokationer.
 
