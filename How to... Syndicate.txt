@@ -20,6 +20,7 @@ By product-led (as oppose to vision-led, sales-led or technical-led) we mean whe
 When we say product we mean a complete experience. A product is the driver of value to the customer.
 
 #todo [DK eller EN?]
+
 Syndicate er de førende enablers af produktdrevne organisationer.
 
 Med produktdrevne organisationer mener vi virksomheder, hvis primære vision er at levere værdi til deres kunde via deres produkt. Alle andre komponenter i virksomheden er i produktets tjeneste.
@@ -208,9 +209,10 @@ Eksempler på produkter der er en del af vores Lab:
 - Nabohjælp
 - Numble
 - Bilscanner
+- Super Shopper
 - Grim
 - Upgrade
-- ...
+- #todo Update list
 
 ### What we do?
 
