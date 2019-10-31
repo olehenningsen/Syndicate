@@ -1,15 +1,11 @@
 # How to... Syndicate - in beta
 
-#todo Etik afsnit
-
 {{TOC}}
 
 +++
 
 ## Velkommen 
 Velkommen til Syndicate. Et kollektiv, hvor sammenhold, ekspertise og opfinderlyst er i højsædet. På de næste par sider vil du blive klogere på Syndicate - spirituelt og organisatorisk. Derefter vil vi grave et spadestik dybere i en manual til hvad du får ud af netop dette fællesskab.
-
-#todo [Tegning: Syndicate tændstiksmand]
 
 ## Mission: Why do we exists?
 
@@ -22,6 +18,13 @@ By product-led (as oppose to vision-led, sales-led or technical-led) we mean whe
 - Product is the primary driver of growth and value
 
 When we say product we mean a complete experience. A product is the driver of value to the customer.
+
+#todo [DK eller EN?]
+Syndicate er de førende enablers af produktdrevne organisationer.
+
+Med produktdrevne organisationer mener vi virksomheder, hvis primære vision er at levere værdi til deres kunde via deres produkt. Alle andre komponenter i virksomheden er i produktets tjeneste.
+
+Vores mål er at hjælpe produktdrevne organisationer og kreatører ved at støtte deres kontinuerlige skabelse af værdi til deres kunder. Sammen udvikler vi fremtidens produkter og styrker rejsen mod at blive mere succesfulde produktudviklere.
 
 ## Vision: Were are we going?
 
@@ -108,6 +111,8 @@ Vi udvikler **produkter**. Alt er et produkt. Du er et produkt. Vi er **produktu
 
 #todo [Star Wars reference]
 
+#todo [Etik afsnit]
+
 ## Syndicates opbygning
 
 #todo [Tegning: Syndicate Circles]
@@ -116,19 +121,19 @@ Vi udvikler **produkter**. Alt er et produkt. Du er et produkt. Vi er **produktu
 
 Syndicate består af dig. Du er grundpillen, motoren for Syndicate. Uden dig ville alt i dette dokument være tomme ord. Derfor afspejler Syndicates værdier sig forhåbentligt i dig. Du er passioneret, fokuseret og legesyg. Du tager hånd om egen karriere og elsker at arbejde i et team fyldt med andre passionerede mennesker.
 
-#todo "*Culture fit*"
+#todo [*Culture fit*"-model]
 
 Der er ingen der er freelance tilknyttet Syndicate som vi ikke vil ansætte. Du bliver ikke freelance tilknyttet fordi der byder sig en mulighed for hurtig profit. Du er freelance tilknyttet fordi vi ønsker en langsigtet relation.
 
 Alle fastansatte kan til enhver tid ønske at blive freelance tilknyttet og vice versa.
 
-#todo <End>
-
 > Du har underspillet styr på dit shit
 
 Personlig udvikling er essentielt for dig, således at du kan være den bedste udgave af dig selv. Kun derved bliver Syndicate den bedste udgave af sig selv.
 
-### Stammen som organisme
+#todo [Radical Candor-model]
+
+### *The Brainy Bunch*
 
 Stammen. Triben. Gruppen. Holdet. Teamet. Bandet. Rockerklubben. Syndikatet.
 
@@ -141,8 +146,6 @@ Ligegyldigt om du er freelance tilknyttet eller fastansat konsulent er du en int
 > Move Your Feet
 
 Stammen består både af junior og senior. Forskelighed giver den dynamik Syndicate har behov for. I stammen passer vi på hinanden.
-
-#todo [Tegning: Gruppe]
 
 #### Flat Army
 
@@ -279,7 +282,7 @@ En weekend i maj lader vi ægtefæller, børn og realkreditlån blive hjemme og 
 
 **GrimFest**
 
-#todo [Tegning: Lyn]
+#todo [Tegning: Grim lyn]
 
 En god håndfuld af os bruger en del af vores arbejdstid på Grim. Den første weekend i august får resten af Syndicate mulighed for at se, hvad der er blevet arbejdet på, når GrimFest traditionen tro løber af stablen. For mange af os er det den hyggeligste weekend på hele året, hvor vi kan mødes over en fadøl og høre god musik.
 
