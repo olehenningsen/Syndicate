@@ -112,7 +112,22 @@ Vi udvikler **produkter**. Alt er et produkt. Du er et produkt. Vi er **produktu
 
 #todo [Star Wars reference]
 
+## How not to Syn(dicate)
+
 #todo [Etik afsnit]
+Reference: Ethical Hierarchy of Needs
+
+**Overvågning:** Vi vil ikke skabe produkter der har forbrugerens data som grundlag for forretningsmodellen - såfremt sporing, tracking, salg til trejde parter, etc. er nødvendigt, formidles dette til forbrugeren med gennemsigtighed udover lovpligtig oplysning.
+
+**Spild:** Vi vil ikke skabe produkter der lægger op til at unødigt trække på fysiske ressourcer i form af overforbrug, mersalg, og fremstilling, hvis det omtalte produkt har en negativ omkostning for miljø i produktion og brug. Det er i så fald vores pligt at fremhæve og udfordre pågældende produkt.
+
+**Tilgængelighed:** Vi vil ikke lave produkter der udskiller folk med nedsatte evner som edge cases - vi skal gøre vores bedste for at lave produkter der gøres tilgængelige for alle.
+
+**Uvidenhed:** Vi vi ikke lave produkter hvis udfald er at skabe ulighed. Vi skal til enhver tid være i stand til at stille os bag et “slør af uvidenhed” og skabe produkter der tilgodeser et retfærdigt udfald, ligemeget om man er udgiver eller forbruger.
+
+**Hello & goodbye:** Vi vil ikke skabe produkter der har til formål at skabe afhængighed. Vi forstyrrer ikke unødvendigt, vi respekterer folks begrænset tid og gemmer ikke på udveje. Det må ikke være sværere at sige nej tak, end ja.
+
+**Own it:** Vi vil ikke lave produkter som vi ikke kan stå bag. Det vi er med til at skabe hviler på vores skuldre. Såfremt produkt skulle vise sig at stå imod ovenstående værdier, har vi et ansvar for at rette op på det.
 
 ## Syndicates opbygning
 
@@ -216,7 +231,7 @@ Eksempler på produkter der er en del af vores Lab:
 
 ### What we do?
 
-#### Beyond Consulting - Syndicate is services and products
+#### Beyond services - Syndicate is products
 
 De fleste i stammen har arbejdet eller arbejder til dagligt som konsulenter. For kunder og ude ved kunder. Det vil vi nok blive ved med et godt stykke endnu. Vi udvikler dog flere og flere produkter i samarbejde med vores kunder der har fuld tillid til at vi tager ansvaret for deres løsninger.
 
