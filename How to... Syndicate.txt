@@ -114,20 +114,31 @@ Vi udvikler **produkter**. Alt er et produkt. Du er et produkt. Vi er **produktu
 
 ## How not to Syn(dicate)
 
-#todo [Etik afsnit]
-Reference: Ethical Hierarchy of Needs
+Vi har et etisk kodeks der består af vores 6 grundlæggende principper. 
 
-**Overvågning:** Vi vil ikke skabe produkter der har forbrugerens data som grundlag for forretningsmodellen - såfremt sporing, tracking, salg til trejde parter, etc. er nødvendigt, formidles dette til forbrugeren med gennemsigtighed udover lovpligtig oplysning.
+**No peeking**
 
-**Spild:** Vi vil ikke skabe produkter der lægger op til at unødigt trække på fysiske ressourcer i form af overforbrug, mersalg, og fremstilling, hvis det omtalte produkt har en negativ omkostning for miljø i produktion og brug. Det er i så fald vores pligt at fremhæve og udfordre pågældende produkt.
+Vi vil skabe produkter, der tager vare på forbrugerens privatliv og ret hertil. Vi tager afstand fra, at forbrugerdata danner grundlag for forretningsmodellen. Indsamling af data i forbindelse med sporing, tracking mm. vil blive formidlet med gennemsigtighed udover lovpligtig oplysning.
 
-**Tilgængelighed:** Vi vil ikke lave produkter der udskiller folk med nedsatte evner som edge cases - vi skal gøre vores bedste for at lave produkter der gøres tilgængelige for alle.
+**Keep it clean**
 
-**Uvidenhed:** Vi vi ikke lave produkter hvis udfald er at skabe ulighed. Vi skal til enhver tid være i stand til at stille os bag et “slør af uvidenhed” og skabe produkter der tilgodeser et retfærdigt udfald, ligemeget om man er udgiver eller forbruger.
+Vi vil skabe produkter, der tager hensyn til og trækker mindst muligt på jordens fysiske ressourcer. Vi skal gøre vores bedste for at lave produkter, der kræver mindst muligt i produktion og brug. Hvis et produkt kan mindske sit forbrug i produktion, anvendelse og afskaffelse, er det vores pligt at fremhæve og udfordre pågældende produkt.
 
-**Hello & goodbye:** Vi vil ikke skabe produkter der har til formål at skabe afhængighed. Vi forstyrrer ikke unødvendigt, vi respekterer folks begrænset tid og gemmer ikke på udveje. Det må ikke være sværere at sige nej tak, end ja.
+**All inclusive**
 
-**Own it:** Vi vil ikke lave produkter som vi ikke kan stå bag. Det vi er med til at skabe hviler på vores skuldre. Såfremt produkt skulle vise sig at stå imod ovenstående værdier, har vi et ansvar for at rette op på det.
+Vi vil skabe produkter, der tilgodeser personer med nedsatte evner og undgår at fremstille disse personer som edge cases - vi skal gøre vores bedste for at lave produkter, der gøres tilgængelige for alle.
+
+**Equality**
+
+Vil vil skabe produkter, der stræber efter at skabe lighed. Vi skal til enhver tid være i stand til at stille os bag et “slør af uvidenhed” og skabe produkter, der tilgodeser et retfærdigt udfald.
+
+**Hello & goodbye**
+
+Vi vil skabe produkter, der respekterer folks begrænsede tid, og vi bestræber os på ikke at forstyrre unødvendigt. Vi tager afstand fra produkter, hvis formål er at skabe afhængighed. Det må aldrig være sværere at sige nej tak, end ja.
+
+**Own it**
+
+Vi vil kun skabe produkter, som vi kan stå inde for. Det, vi er med til at skabe, hviler på vores skuldre. Såfremt et produkt skulle vise sig at stå imod vores etiske principper, har vi et ansvar for at rette op på det.
 
 ## Syndicates opbygning
 
@@ -186,6 +197,8 @@ En stamme har altid et internt team der består af 3-4 personer:
 - En facilitator, der formelt også er den ansvarlige CEO
 
 Dette *core team*, som er et internt produktteam, har det overordnede ansvar for stammens ve og vel. Facilitatoren er den procesansvarlige - både i forhold til stammen samt coaching og udvikling af de enkelte medlemmer.
+
+#todo Vi er alle produktudviklere 
 
 ### Lab
 
@@ -291,7 +304,7 @@ Kernen af Syndicate er dig. Derfor er det også yderst vigtigt, at din udvikling
 
 Vi har fire årlige lab-events, hvor vi samles og udvikler på idéer og fremtidige produkter.
 
-#### Stamme-events 
+#### Tribe-events 
 
 **Sommerhustur**
 
@@ -308,6 +321,7 @@ En god håndfuld af os bruger en del af vores arbejdstid på Grim. Den første w
 Selvom vi har det rart sammen, så er der findes der også mennesker uden for vores Syndicate-familie. I septembermåned inviterer vi derfor til familiedag, hvor der er sjove aktiviteter for store og små.
 
 **Julefrokost**
+
 Haps, haps, haps. Enhver virksomhed med respekt for sig selv har en julefrokost. Og Syndicate er ingen undtagelse. På med duftevand og nissehue og spis og drik til den store guldmedalje - vi gir!
 
 ### Er du stay-at-home-typen?
